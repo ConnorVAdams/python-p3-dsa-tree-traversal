@@ -30,7 +30,7 @@ class TestStack:
               {
                 'tag_name': 'h2',
                 'id': None,
-                'text_content': 'Subitle',
+                'text_content': 'Subtitle',
                 'children': []
               }
             ]
